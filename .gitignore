@@ -1,0 +1,13 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Служебные файлы Python и Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Системные файлы macOS
+.DS_Store
+
+# Настройки VS Code
+.vscode/
